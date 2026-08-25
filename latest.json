@@ -1,0 +1,21 @@
+{
+  "version": "4.1.0",
+
+  "update_url": "https://serlortrademark.github.io/serloplaygames/",
+  "web_url": "https://serlortrademark.github.io/serloplaygames/",
+
+  "notes_es": "Mejoras en la gestión interna del launcher, mayor estabilidad y fiabilidad, optimización de varios componentes y pequeños ajustes generales de funcionamiento.",
+  "notes_en": "Improvements to the launcher's internal handling, increased stability and reliability, optimization of several components, and minor general functionality adjustments.",
+
+  "free_mode_enabled": false,
+  "minimum_allowed_version": "4.0.0",
+  "block_licensed_users": false,
+
+  "license_plan_name_es": "1 año",
+  "license_plan_name_en": "1 year",
+  "license_price_eur": "9,99",
+
+  "stripe_url": "https://buy.stripe.com/dRmdR11QPbA183HbCU93y05",
+  "donation_url": "https://buy.stripe.com/dRmdR10ML8nPfw9cGY93y03",
+  "help_url": "https://docs.google.com/forms/d/e/1FAIpQLSd19uy1a_KOiee_vySDFn6GRLwMrAbgI7NV0iwwub8DZdmZog/viewform"
+}
