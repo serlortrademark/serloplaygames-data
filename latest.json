@@ -4,8 +4,8 @@
   "free_mode_enabled": true,
   "notification": {
     "enabled": true,
-    "id": "prueba-once-02",
-    "mode": "always",
+    "id": "prueba-once-03",
+    "mode": "once",
     "title_es": "Bienvenido a SerLO PLay GamES",
     "message_es": "Gracias por utilizar SerLO PLay GamES.",
     "title_en": "Welcome to SerLO PLay GamES",
