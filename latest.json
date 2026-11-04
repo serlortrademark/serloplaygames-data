@@ -3,7 +3,7 @@
   "donation_url": "https://buy.stripe.com/dRmdR10ML8nPfw9cGY93y03",
   "free_mode_enabled": true,
   "notification": {
-    "enabled": true,
+    "enabled": false,
     "id": "prueba-once-03",
     "mode": "once",
     "title_es": "Bienvenido a SerLO PLay GamES",
