@@ -1,7 +1,7 @@
 {
   "web_url": "https://serlortrademark.github.io/serloplaygames/",
   "donation_url": "https://buy.stripe.com/dRmdR10ML8nPfw9cGY93y03",
-  "free_mode_enabled": true,
+  "free_mode_enabled": false,
   "notification": {
     "enabled": false,
     "id": "prueba-once-03",
