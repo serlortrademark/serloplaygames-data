@@ -4,11 +4,11 @@
   "free_mode_enabled": true,
   "notification": {
     "enabled": true,
-    "id": "prueba-once-03",
-    "mode": "always",
-    "title_es": "PROBANDO VERSION 6.0.0",
-    "message_es": "Gracias por confiar en SerLO PLay GamES",
-    "title_en": "TESTING VERSION 6.0.0",
-    "message_en": "Thank you for trusting SerLO PLay GamES"
+    "id": "bienvenida-6-0-0",
+    "mode": "once",
+    "title_es": "¡Bienvenido a SerLO PLay GamES 6.0.0!",
+    "message_es": "¡Gracias por utilizar SerLO PLay GamES!\n\nEsta nueva versión incorpora mejoras de funcionamiento, estabilidad y seguridad, además de nuevas opciones para organizar y personalizar tu biblioteca de juegos y aplicaciones.\n\nSeguiremos trabajando para ofrecerte la mejor experiencia posible.\n\n¡Disfruta de SerLO PLay GamES!",
+    "title_en": "Welcome to SerLO PLay GamES 6.0.0!",
+    "message_en": "Thank you for using SerLO PLay GamES!\n\nThis new version includes improvements to performance, stability, and security, along with new options to organize and customize your game and application library.\n\nWe'll continue working to provide you with the best possible experience.\n\nEnjoy SerLO PLay GamES!"
   }
 }
