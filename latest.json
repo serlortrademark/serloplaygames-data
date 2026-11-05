@@ -3,7 +3,7 @@
   "donation_url": "https://buy.stripe.com/dRmdR10ML8nPfw9cGY93y03",
   "free_mode_enabled": true,
   "notification": {
-    "enabled": false,
+    "enabled": true,
     "id": "bienvenida-6-0-0-0",
     "mode": "once",
     "title_es": "¡SerLO PLay GamES 6.0.0 estrena nueva imagen!",
