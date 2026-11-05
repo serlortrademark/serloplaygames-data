@@ -1,9 +1,9 @@
 {
   "web_url": "https://serlortrademark.github.io/serloplaygames/",
   "donation_url": "https://buy.stripe.com/dRmdR10ML8nPfw9cGY93y03",
-  "free_mode_enabled": false,
+  "free_mode_enabled": true,
   "notification": {
-    "enabled": false,
+    "enabled": true,
     "id": "prueba-once-03",
     "mode": "once",
     "title_es": "Bienvenido a SerLO PLay GamES",
