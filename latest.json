@@ -1,10 +1,10 @@
 {
   "web_url": "https://serlortrademark.github.io/serloplaygames/",
   "donation_url": "https://buy.stripe.com/dRmdR10ML8nPfw9cGY93y03",
-  "free_mode_enabled": false,
+  "free_mode_enabled": true,
   "notification": {
     "enabled": true,
-    "id": "01",
+    "id": "Bienvenidos",
     "mode": "once",
     "title_es": "¡SerLO PLay GamES 6.0.2 estrena nueva imagen!",
     "message_es": "¡Bienvenido a una nueva etapa de SerLO PLay GamES!\n\nEsta versión llega con una importante renovación visual, una interfaz completamente rediseñada y una experiencia más moderna, cómoda y personalizable.\n\nDescubre las nuevas vistas de biblioteca, una organización más intuitiva y muchas novedades para disfrutar de tus juegos y aplicaciones en un solo lugar.\n\n¡Gracias por formar parte de SerLO PLay GamES y disfruta de su nueva imagen!",
